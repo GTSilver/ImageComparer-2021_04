@@ -1,0 +1,30 @@
+D:\яя\Image comparison\bin\Debug\Image comparison.exe.config
+D:\яя\Image comparison\bin\Debug\Image comparison.exe
+D:\яя\Image comparison\bin\Debug\Image comparison.pdb
+D:\яя\Image comparison\obj\Debug\Image comparison.csprojAssemblyReference.cache
+D:\яя\Image comparison\obj\Debug\Image_comparison.Form1.resources
+D:\яя\Image comparison\obj\Debug\Image_comparison.Properties.Resources.resources
+D:\яя\Image comparison\obj\Debug\Image comparison.csproj.GenerateResource.cache
+D:\яя\Image comparison\obj\Debug\Image comparison.csproj.CoreCompileInputs.cache
+D:\яя\Image comparison\obj\Debug\Image comparison.exe
+D:\яя\Image comparison\obj\Debug\Image comparison.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\bin\Debug\Image comparison.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\bin\Debug\Image comparison.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\bin\Debug\Image comparison.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image comparison.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image_comparison.Form1.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image_comparison.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image comparison.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image comparison.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image comparison.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Image comparison\obj\Debug\Image comparison.pdb
+D:\Рабочий стол\C#\Image comparison\bin\Debug\Image comparison.exe.config
+D:\Рабочий стол\C#\Image comparison\bin\Debug\Image comparison.exe
+D:\Рабочий стол\C#\Image comparison\bin\Debug\Image comparison.pdb
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image comparison.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image_comparison.Form1.resources
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image_comparison.Properties.Resources.resources
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image comparison.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image comparison.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image comparison.exe
+D:\Рабочий стол\C#\Image comparison\obj\Debug\Image comparison.pdb

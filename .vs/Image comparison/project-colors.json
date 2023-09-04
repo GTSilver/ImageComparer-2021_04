@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5e65185-b2a1-4dff-af7d-f65cc00353ab": {
+      "ProjectGuid": "d5e65185-b2a1-4dff-af7d-f65cc00353ab",
+      "DisplayName": "Image comparison",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
